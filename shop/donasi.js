@@ -1,5 +1,5 @@
 const donasibot = () => {
-return `DONASI BISA VIA BANK / E-MONEY
+return `DONASI BISA VIA PULSA / E-MONEY
 
 *PULSA*
 
